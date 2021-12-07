@@ -1,1 +1,1 @@
-# Cromite-Bug-Bounty
+# Chromite-Bug-Bounty
